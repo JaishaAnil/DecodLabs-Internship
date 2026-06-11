@@ -1,1 +1,46 @@
+# Data Analytics Project 4 - Data Visualization
+
+## Project Overview
+
+This project focuses on data visualization using Python. Various charts and graphs were created to analyze sales performance, payment methods, order status, referral sources, and revenue generation.
+
+## Tools & Technologies
+
+* Python
+* Pandas
+* Matplotlib
+* Google Colab
+
+## Dataset Features
+
+* Order ID
+* Date
+* Customer ID
+* Product
+* Quantity
+* Unit Price
+* Payment Method
+* Order Status
+* Referral Source
+* Total Price
+
+## Visualizations Created
+
+1. Product Sales Bar Chart
+2. Payment Method Pie Chart
+3. Order Status Distribution Chart
+4. Referral Source Analysis Chart
+5. Revenue by Product Chart
+
+## Key Insights
+
+* Different products contribute differently to total sales.
+* Customers use multiple payment methods.
+* Order status analysis helps monitor business performance.
+* Referral sources influence customer acquisition.
+* Revenue visualization highlights top-performing products.
+
+## Outcome
+
+The project successfully transformed raw business data into meaningful visual insights using Python-based data visualization techniques.
 
